@@ -32,7 +32,7 @@
 * 你最熟悉哪一套版本控制系统？
 * 你能描述当你制作一个网页的工作流程吗？
 * 假若你有 5 个不同的样式文件 (stylesheets), 整合进网站的最好方式是?
-* 你能描述渐进增强 (progressive enhancement) 和优雅降级 (graceful degradation) 之间的不同吗?
+* 你能描述渐进增强 (progressive enhancement) 和优雅降级 (graceful degradation) 之间的不同吗? [参考链接](https://segmentfault.com/q/1010000000264469)
 * 你如何对网站的文件和资源进行优化？
 * 浏览器同一时间可以从一个域名下载多少资源？
   * 有什么例外吗？
